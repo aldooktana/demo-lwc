@@ -1,4 +1,4 @@
-# Dreamhouse Lightning Web Components Sample Application
+# Dreamhouse Lightning Web Components Application
 
 [![CircleCI](https://circleci.com/gh/dreamhouseapp/dreamhouse-lwc.svg?style=svg)](https://circleci.com/gh/dreamhouseapp/dreamhouse-lwc)
 
