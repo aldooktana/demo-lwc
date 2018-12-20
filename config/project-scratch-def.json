@@ -1,0 +1,9 @@
+{
+    "orgName": "webComponentTalk",
+    "edition": "Developer",
+    "features": ["Communities"],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled", "NetworksEnabled"],
+        "disabled": ["S1EncryptedStoragePref2"]
+    }
+}

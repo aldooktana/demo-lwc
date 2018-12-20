@@ -1,0 +1,21 @@
+.THIS {
+    background-color: white;
+}
+
+.THIS h1{
+    font-size: 30px;
+}
+
+.THIS .account-line{
+    margin-top: 20px;
+}
+
+.THIS .account-line img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+.THIS .account-line span{
+    margin-left: 15px;
+}

@@ -1,0 +1,19 @@
+<template>
+    <div class="web-container">
+        <h1>Lightning Web Components</h1>
+        <div >
+            <lightning-input type="search" label="Search" name="search" onkeyup={refreshResults}>
+            </lightning-input>
+        </div>
+        <template if:true={searchAccounts}>
+            <template for:each={searchAccounts} for:item='account'>
+                <div key={account.Id}>
+                    <div class="account-line">
+                        <img src={account.PhotoUrl}/>
+                        <span>{account.Name}</span>
+                    </div>
+                </div>
+            </template>
+        </template>
+    </div>
+</template>

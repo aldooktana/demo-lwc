@@ -1,0 +1,5 @@
+<aura:component implements="force:appHostable,forceCommunity:availableForAllPageTypes, flexipage:availableForAllPageTypes" access="global">
+    <div>
+        <c:LTHome />
+    </div>
+</aura:component>

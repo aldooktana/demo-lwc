@@ -1,0 +1,21 @@
+.web-container {
+    background-color: white;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.account-line{
+    margin-top: 20px;
+}
+
+.account-line img{
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+
+.account-line span{
+    margin-left: 15px;
+}

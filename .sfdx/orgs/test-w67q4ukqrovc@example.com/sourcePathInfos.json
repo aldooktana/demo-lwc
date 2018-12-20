@@ -1,0 +1,2552 @@
+[
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544795700486,
+            "changeTime": 1544795700486,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544795700486,
+            "changeTime": 1544795700486,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1544795700531,
+            "changeTime": 1544795700531,
+            "contentHash": "03805979cb527f9845285dcfab6ad956e5cdd669",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544795700487,
+            "changeTime": 1544795700487,
+            "contentHash": "40803d62e4351e2cac52e3f02596215fc5735c61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/applications/Dreamhouse.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/applications/Dreamhouse.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1227,
+            "modifiedTime": 1544795700487,
+            "changeTime": 1544795700487,
+            "contentHash": "5479d9fe5b445b85151c5e91daa7b382c72c8aee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544795700492,
+            "changeTime": 1544795700492,
+            "contentHash": "834a90cd3bd7a041ce97fd2879262a45a80c50b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1544795700489,
+            "changeTime": 1544795700489,
+            "contentHash": "689297a222afb5f511bd2046b591a87ca016f585",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMap.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1107,
+            "modifiedTime": 1544795700487,
+            "changeTime": 1544795700487,
+            "contentHash": "34d0279d4747e2ca30c497850850ea7dc68a30d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMap.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1544795700488,
+            "changeTime": 1544795700488,
+            "contentHash": "3aaf58a5ad8dec492c3a85efa1ce94410004f6f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMap.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 174,
+            "modifiedTime": 1544795700488,
+            "changeTime": 1544795700488,
+            "contentHash": "a2705d96eb4cd4167e43a5f218d8a602d95bacf1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMap.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 75,
+            "modifiedTime": 1544795700488,
+            "changeTime": 1544795700488,
+            "contentHash": "b350fc21599ebf000467443c0f57116bf5b5fc2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMapController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 754,
+            "modifiedTime": 1544795700489,
+            "changeTime": 1544795700489,
+            "contentHash": "f4d24f7f97388616f363a4af1c27aadf1b8ddc9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMapHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 997,
+            "modifiedTime": 1544795700489,
+            "changeTime": 1544795700489,
+            "contentHash": "4e503c70bfe51e6a99b1afa6a183990b4904bc63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMapRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertyListMap/auraPropertyListMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2318,
+            "modifiedTime": 1544795700489,
+            "changeTime": 1544795700489,
+            "contentHash": "eaa6e75549aea766459d6695ae2b6fc10328e86e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1544795700491,
+            "changeTime": 1544795700491,
+            "contentHash": "ed521ae7e90bb39dd1cdddf6d0e56ef1be743c83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3980,
+            "modifiedTime": 1544795700490,
+            "changeTime": 1544795700490,
+            "contentHash": "86635b06a91c0cf48fbc3093effa48d994e85d7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544795700490,
+            "changeTime": 1544795700490,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 223,
+            "modifiedTime": 1544795700490,
+            "changeTime": 1544795700490,
+            "contentHash": "4a2903a91322e2d74d114b0b8555a0e17beb36fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1544795700491,
+            "changeTime": 1544795700491,
+            "contentHash": "9740d2b73ab52fc096bf3233d3ebf53f24322ba7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummary.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3758,
+            "modifiedTime": 1544795700491,
+            "changeTime": 1544795700491,
+            "contentHash": "2085c1f1d55f89d7d6464026db862f44289a05e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummaryController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/auraPropertySummary/auraPropertySummaryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1231,
+            "modifiedTime": 1544795700491,
+            "changeTime": 1544795700491,
+            "contentHash": "2a6e0c9bd009a1d95511ab3b2d6be07c6a30185f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544795700493,
+            "changeTime": 1544795700493,
+            "contentHash": "6195aa8dbdc694a8b5f229980a62359d2617c787",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1031,
+            "modifiedTime": 1544795700492,
+            "changeTime": 1544795700492,
+            "contentHash": "635e52cc8f7a9f304f6a8f7ba5e4cd9e06100548",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 250,
+            "modifiedTime": 1544795700492,
+            "changeTime": 1544795700492,
+            "contentHash": "064c1755aa210d868062ffae3e8f26d4e3966acf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 39,
+            "modifiedTime": 1544795700493,
+            "changeTime": 1544795700493,
+            "contentHash": "2b78619be9855574d98d9726684a37c25076a8eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 338,
+            "modifiedTime": 1544795700493,
+            "changeTime": 1544795700493,
+            "contentHash": "0b5fc2d7c4fd8da492d1107f8ab4aa19e42e4643",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1544795700493,
+            "changeTime": 1544795700493,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1544795700496,
+            "changeTime": 1544795700496,
+            "contentHash": "426fa230a6333c4e3474c873d9a9ce64ab0df8bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/PagedResult.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/PagedResult.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 296,
+            "modifiedTime": 1544795700494,
+            "changeTime": 1544795700494,
+            "contentHash": "965bcd5a9eb5ae9fbc88327a800e1053492994a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/PagedResult.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/PagedResult.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1544795700494,
+            "changeTime": 1544795700494,
+            "contentHash": "f91125ea7f6b0ae9689f9fb44cd1d16239b53956",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/PropertyController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/PropertyController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2964,
+            "modifiedTime": 1544795700494,
+            "changeTime": 1544795700494,
+            "contentHash": "5e8bdc0319860c5af36d1ee090281ee410a79bdc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/PropertyController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/PropertyController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1544795700495,
+            "changeTime": 1544795700495,
+            "contentHash": "39e4c5ae1c074d2e520d03c7c651922ed992667a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/SampleDataController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/SampleDataController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 984,
+            "modifiedTime": 1544795700495,
+            "changeTime": 1544795700495,
+            "contentHash": "630c91aa653871ec837e580ffe9cbe89439204cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/SampleDataController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/SampleDataController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1544795700495,
+            "changeTime": 1544795700495,
+            "contentHash": "098903333cdd8c31b4d08ca49e101b5cb25a03fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/TestPropertyController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/TestPropertyController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1357,
+            "modifiedTime": 1544795700496,
+            "changeTime": 1544795700496,
+            "contentHash": "027b7a4ccaadd3ab02b03bf6676172618fe13db5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/TestPropertyController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/classes/TestPropertyController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1544795700496,
+            "changeTime": 1544795700496,
+            "contentHash": "900031a8f76e5eb63ad9f5e3428d7b5938ae7ec9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/contentassets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544795700497,
+            "changeTime": 1544795700497,
+            "contentHash": "b6558fc92fe2792b6b6c8393dfb899fdac8fcb4b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/contentassets/dreamhouselogosquare.asset",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/contentassets/dreamhouselogosquare.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 23382,
+            "modifiedTime": 1544795700497,
+            "changeTime": 1544795700497,
+            "contentHash": "6d5b29819c501c5f2dcf1960d7e62cb903a5ce20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/contentassets/dreamhouselogosquare.asset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/contentassets/dreamhouselogosquare.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 492,
+            "modifiedTime": 1544795700497,
+            "changeTime": 1544795700497,
+            "contentHash": "480ff48bff8f841d0981d37b3c929cb2289f9e57",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700499,
+            "changeTime": 1544795700499,
+            "contentHash": "f0087a0d799d08e1af011b28f7b66354508f912c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages/Property_Explorer.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages/Property_Explorer.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1031,
+            "modifiedTime": 1544795700498,
+            "changeTime": 1544795700498,
+            "contentHash": "5763dbf9fd4bca54adcbb23bd1395e4a4b42ff61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages/Property_Finder.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages/Property_Finder.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1033,
+            "modifiedTime": 1544795700498,
+            "changeTime": 1544795700498,
+            "contentHash": "dbc462954a3338baed0bfb9abc838e855108edbd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5815,
+            "modifiedTime": 1544795700498,
+            "changeTime": 1544795700498,
+            "contentHash": "047955a4e937644b1aca8ac8049b1c381892ebe7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages/Settings.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/flexipages/Settings.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 714,
+            "modifiedTime": 1544795700499,
+            "changeTime": 1544795700499,
+            "contentHash": "856aa7c6813f1d3a4ab1f6c658758e1ba0a756b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544795700500,
+            "changeTime": 1544795700500,
+            "contentHash": "90b601961e1d62db7127edd64bc6eb78b8102458",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3334,
+            "modifiedTime": 1544795700499,
+            "changeTime": 1544795700499,
+            "contentHash": "08bbfdaaab698d11e38a41b5d644176c62e60fbd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7097,
+            "modifiedTime": 1544795700500,
+            "changeTime": 1544795700500,
+            "contentHash": "cb1693275e9807386c805ff0bf5dce96c7822fe2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 544,
+            "modifiedTime": 1544795819772,
+            "changeTime": 1544795819772,
+            "contentHash": "9bbff24bed1392bf52556c077c25c4f2a1f28245",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/auraPubsub",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/auraPubsub",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544795700501,
+            "changeTime": 1544795700501,
+            "contentHash": "12ba0a18b6a4019c20b1e9dd17541953513b0456",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/auraPubsub/auraPubsub.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/auraPubsub/auraPubsub.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 23,
+            "modifiedTime": 1544795700501,
+            "changeTime": 1544795700501,
+            "contentHash": "efca0ab5c8522eb7c75dac13fa0042018b0d1e99",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/auraPubsub/auraPubsub.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/auraPubsub/auraPubsub.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1518,
+            "modifiedTime": 1544795700501,
+            "changeTime": 1544795700501,
+            "contentHash": "ffd90fae5a8d7ab9d1569e7cf3d7f9c50ee12baa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/auraPubsub/auraPubsub.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/auraPubsub/auraPubsub.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1544795700501,
+            "changeTime": 1544795700501,
+            "contentHash": "04b08650031f3722739efe6d84e679d42305dbc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/brokerCard",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/brokerCard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544795700502,
+            "changeTime": 1544795700502,
+            "contentHash": "4adb41826974bec732a7e6710694f96e4ac17801",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/brokerCard/brokerCard.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/brokerCard/brokerCard.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 696,
+            "modifiedTime": 1544795700502,
+            "changeTime": 1544795700502,
+            "contentHash": "1193729fcbd394623926291068703ced33433408",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/brokerCard/brokerCard.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/brokerCard/brokerCard.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1278,
+            "modifiedTime": 1544795700502,
+            "changeTime": 1544795700502,
+            "contentHash": "aa2ab5783338f64dfc9c147d551679ae1b342701",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/brokerCard/brokerCard.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/brokerCard/brokerCard.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 492,
+            "modifiedTime": 1544795700502,
+            "changeTime": 1544795700502,
+            "contentHash": "9b658efe62181cdcae49082facf47cfd93134741",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700504,
+            "changeTime": 1544795700504,
+            "contentHash": "9231ca0f78271a286dc6d67840a46306e81da34e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket/daysOnMarket.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket/daysOnMarket.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1455,
+            "modifiedTime": 1544795700503,
+            "changeTime": 1544795700503,
+            "contentHash": "bcbd71aa4db89dfa4d372c5d43415151fa4e52c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket/daysOnMarket.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket/daysOnMarket.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1181,
+            "modifiedTime": 1544795700503,
+            "changeTime": 1544795700503,
+            "contentHash": "083dd945301315a1fe8f970e2228821862104a2b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket/daysOnMarket.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket/daysOnMarket.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2175,
+            "modifiedTime": 1544795700504,
+            "changeTime": 1544795700504,
+            "contentHash": "ba606ba76225c21b73fd0385c81dd75ff45cb9ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket/daysOnMarket.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/daysOnMarket/daysOnMarket.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 577,
+            "modifiedTime": 1544795700504,
+            "changeTime": 1544795700504,
+            "contentHash": "811e4320273a1c2a2958c9c4da75b1acaea9a307",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700506,
+            "changeTime": 1544795700506,
+            "contentHash": "7331a089061b6376f394b933ce42f620155b2b21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage/inlineMessage.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage/inlineMessage.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1544795700505,
+            "changeTime": 1544795700505,
+            "contentHash": "73db7c3e876bbc19e20dc0926e430f7a8b1cc58a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage/inlineMessage.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage/inlineMessage.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 736,
+            "modifiedTime": 1544795700505,
+            "changeTime": 1544795700505,
+            "contentHash": "692122b557fe79f935397eddd0b96923bfe255bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage/inlineMessage.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage/inlineMessage.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1776,
+            "modifiedTime": 1544795700506,
+            "changeTime": 1544795700506,
+            "contentHash": "6b8ff65a1ead06e77297248d49da3ace63da2244",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage/inlineMessage.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/inlineMessage/inlineMessage.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1544795700506,
+            "changeTime": 1544795700506,
+            "contentHash": "04b08650031f3722739efe6d84e679d42305dbc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700507,
+            "changeTime": 1544795700507,
+            "contentHash": "c1cd00c92150b77a70c3d8e2c103c92d2c4ef8de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator/paginator.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator/paginator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 93,
+            "modifiedTime": 1544795700506,
+            "changeTime": 1544795700506,
+            "contentHash": "ca12bd9a950a6a6d7936bbfd4752dce52a522eb9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator/paginator.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator/paginator.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 840,
+            "modifiedTime": 1544795700507,
+            "changeTime": 1544795700507,
+            "contentHash": "f4b67e3f817578445c7a0dcef926077845704615",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator/paginator.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator/paginator.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 799,
+            "modifiedTime": 1544795700507,
+            "changeTime": 1544795700507,
+            "contentHash": "af2eec046561c734504d80b96c299478298efa7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator/paginator.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/paginator/paginator.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1544795700507,
+            "changeTime": 1544795700507,
+            "contentHash": "04b08650031f3722739efe6d84e679d42305dbc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700508,
+            "changeTime": 1544795700508,
+            "contentHash": "a0e9c57f83df9c0b15386b0380f3127bd519a2f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel/propertyCarousel.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel/propertyCarousel.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1544795700508,
+            "changeTime": 1544795700508,
+            "contentHash": "e7d9dc30fc4c99d2df01198e9c5e1b4fed7c7ea1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel/propertyCarousel.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel/propertyCarousel.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1333,
+            "modifiedTime": 1544795700508,
+            "changeTime": 1544795700508,
+            "contentHash": "2d0378254ff893d0a902eb377995684335c289aa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel/propertyCarousel.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel/propertyCarousel.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1916,
+            "modifiedTime": 1544795700508,
+            "changeTime": 1544795700508,
+            "contentHash": "546a1564dda3981499668966a55fe60e7d5ded6c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel/propertyCarousel.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyCarousel/propertyCarousel.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 492,
+            "modifiedTime": 1544795700509,
+            "changeTime": 1544795700509,
+            "contentHash": "b3f7c10385f95fe5e42a7431e593f830eddfb14e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyFilter",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyFilter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544795700509,
+            "changeTime": 1544795700509,
+            "contentHash": "89f56d889cc34c3031219146fb27947d8bbda919",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyFilter/propertyFilter.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyFilter/propertyFilter.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 860,
+            "modifiedTime": 1544795700509,
+            "changeTime": 1544795700509,
+            "contentHash": "5c79f9cef3acd2293364e679ba5b271cd48f59b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyFilter/propertyFilter.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyFilter/propertyFilter.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1854,
+            "modifiedTime": 1544795700509,
+            "changeTime": 1544795700509,
+            "contentHash": "1a8e197ac16de89a13f99d96a58dfee5a7c53517",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyFilter/propertyFilter.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyFilter/propertyFilter.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 281,
+            "modifiedTime": 1544795700509,
+            "changeTime": 1544795700509,
+            "contentHash": "c1c64563a8287b7f69cfabe4bf94f1827687287e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyMap",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544795700510,
+            "changeTime": 1544795700510,
+            "contentHash": "86753ca8b966a098aabf819e7d17bc518533409f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyMap/propertyMap.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyMap/propertyMap.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 385,
+            "modifiedTime": 1544795700510,
+            "changeTime": 1544795700510,
+            "contentHash": "735204dae0d218bc69d3a55e01be47440bd9aff4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyMap/propertyMap.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyMap/propertyMap.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1578,
+            "modifiedTime": 1544795700510,
+            "changeTime": 1544795700510,
+            "contentHash": "9020301321b5e8b3f43e67f342866873dfb4a948",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyMap/propertyMap.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyMap/propertyMap.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 578,
+            "modifiedTime": 1544795700510,
+            "changeTime": 1544795700510,
+            "contentHash": "4b48389592e17c3307e215e98c04bd373f3514a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700511,
+            "changeTime": 1544795700511,
+            "contentHash": "f0cefed26a91271391f534c10dad8c9577d3449d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary/propertySummary.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary/propertySummary.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 432,
+            "modifiedTime": 1544795700511,
+            "changeTime": 1544795700511,
+            "contentHash": "73101bb03dc63f69f2fc44833bee944d25c0b460",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary/propertySummary.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary/propertySummary.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1091,
+            "modifiedTime": 1544795700511,
+            "changeTime": 1544795700511,
+            "contentHash": "130c8aa0e920f20dd1f2b56b7994b118ce85fe9a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary/propertySummary.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary/propertySummary.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1872,
+            "modifiedTime": 1544795700511,
+            "changeTime": 1544795700511,
+            "contentHash": "931971f0f70df24925d27dcb9ab1c66f13fc2fa1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary/propertySummary.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertySummary/propertySummary.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 577,
+            "modifiedTime": 1544795700511,
+            "changeTime": 1544795700511,
+            "contentHash": "811e4320273a1c2a2958c9c4da75b1acaea9a307",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700513,
+            "changeTime": 1544795700513,
+            "contentHash": "fbd305a5d48b2706182490dd47ddf45e1f07ec0c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile/propertyTile.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile/propertyTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 619,
+            "modifiedTime": 1544795700512,
+            "changeTime": 1544795700512,
+            "contentHash": "e4b52a3f2ca15d8acbc3f0c87d2f5c067a551d80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile/propertyTile.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile/propertyTile.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 530,
+            "modifiedTime": 1544795700512,
+            "changeTime": 1544795700512,
+            "contentHash": "b9995610c808fbf671708c7ae0d3a6875cecdbce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile/propertyTile.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile/propertyTile.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 429,
+            "modifiedTime": 1544795700512,
+            "changeTime": 1544795700512,
+            "contentHash": "78f0cea443d488bfe46ee10e2bbed59edf6926e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile/propertyTile.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTile/propertyTile.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1544795700513,
+            "changeTime": 1544795700513,
+            "contentHash": "04b08650031f3722739efe6d84e679d42305dbc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700514,
+            "changeTime": 1544795700514,
+            "contentHash": "0f23ffbacfdcc310d37f48d3c0bb67b5d7849e76",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList/propertyTileList.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList/propertyTileList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 127,
+            "modifiedTime": 1544795700513,
+            "changeTime": 1544795700513,
+            "contentHash": "00bec6a760ff2b0fae086469e53791ef5aef5dd5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList/propertyTileList.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList/propertyTileList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 839,
+            "modifiedTime": 1544795700514,
+            "changeTime": 1544795700514,
+            "contentHash": "bfe55ad251cf0a0e0cde95a46d0013c61c8cddc1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList/propertyTileList.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList/propertyTileList.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1576,
+            "modifiedTime": 1544795700514,
+            "changeTime": 1544795700514,
+            "contentHash": "29778126cd62a1d85604b36136f8dc525ba9342a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList/propertyTileList.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/propertyTileList/propertyTileList.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 278,
+            "modifiedTime": 1544795700514,
+            "changeTime": 1544795700514,
+            "contentHash": "30727090bbbb0cc6e9396c67cb4b03a65c744abf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/pubsub",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/pubsub",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544795700515,
+            "changeTime": 1544795700515,
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/pubsub/pubsub.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/pubsub/pubsub.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3099,
+            "modifiedTime": 1544795700514,
+            "changeTime": 1544795700514,
+            "contentHash": "b64204fb49e5b56e4a46bad9d1002f8a679dd880",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/pubsub/pubsub.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/pubsub/pubsub.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1544795700515,
+            "changeTime": 1544795700515,
+            "contentHash": "04b08650031f3722739efe6d84e679d42305dbc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/sampleDataImporter",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/sampleDataImporter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544795700515,
+            "changeTime": 1544795700515,
+            "contentHash": "d6eba1df0feb745b9ff91ea4fea41f104fc51eab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 517,
+            "modifiedTime": 1544795700515,
+            "changeTime": 1544795700515,
+            "contentHash": "2cc819aaeb5bf834af15cea88e883fe01b838805",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 910,
+            "modifiedTime": 1544795700515,
+            "changeTime": 1544795700515,
+            "contentHash": "f26a529aa944bcd23867a714469ced710790ea11",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 323,
+            "modifiedTime": 1544795700516,
+            "changeTime": 1544795700516,
+            "contentHash": "24c7ebc27202802cef1bc29362b9c6333bcd78f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544795700519,
+            "changeTime": 1544795700519,
+            "contentHash": "b18ab1fe7006b1926c6ec1cb2da75d0e9a5d9de3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700519,
+            "changeTime": 1544795700519,
+            "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/Broker__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2079,
+            "modifiedTime": 1544795700516,
+            "changeTime": 1544795700516,
+            "contentHash": "4ded57b103ff1b6be7232e03afb0e499412ef23a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544795700516,
+            "changeTime": 1544795700516,
+            "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/compactLayouts/Broker_Compact.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/compactLayouts/Broker_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 347,
+            "modifiedTime": 1544795700516,
+            "changeTime": 1544795700516,
+            "contentHash": "6e5e20522933437a420f98f37bd3cd6114879e48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1544795700519,
+            "changeTime": 1544795700519,
+            "contentHash": "c4eaa869868d2a5724c0d0e088251470596768bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Broker_Id__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Broker_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 391,
+            "modifiedTime": 1544795700517,
+            "changeTime": 1544795700517,
+            "contentHash": "de5d9192c21cca8503a36ba195d6bd71d3ffc62a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Email__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1544795700517,
+            "changeTime": 1544795700517,
+            "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Mobile_Phone__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1544795700517,
+            "changeTime": 1544795700517,
+            "contentHash": "312ccfca2f9149ef19f3d3e6ba62d0b8602a0681",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Phone__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 305,
+            "modifiedTime": 1544795700518,
+            "changeTime": 1544795700518,
+            "contentHash": "2a31a0600201166beb5798a9f209add1724f5747",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Picture_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1544795700518,
+            "changeTime": 1544795700518,
+            "contentHash": "d679f8280e1412eedc0767a1a91c8ab08a3378c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Picture__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 307,
+            "modifiedTime": 1544795700518,
+            "changeTime": 1544795700518,
+            "contentHash": "7cd3c0cc44339863436c2ea2314a7b1013ae6e2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Title__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/fields/Title__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1544795700519,
+            "changeTime": 1544795700519,
+            "contentHash": "9fa27aa9d1ad16bbcd462b1d0116e077ec8c2b88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544795700519,
+            "changeTime": 1544795700519,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Broker__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 232,
+            "modifiedTime": 1544795700519,
+            "changeTime": 1544795700519,
+            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544795700527,
+            "changeTime": 1544795700527,
+            "contentHash": "e8ef1e6ca000032e20cde1b180848e8b3a17e057",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/Property__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/Property__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2170,
+            "modifiedTime": 1544795700519,
+            "changeTime": 1544795700519,
+            "contentHash": "0bfc37eb348fcc7aa92d72ad72e0da7f0f73b6d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544795700520,
+            "changeTime": 1544795700520,
+            "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 356,
+            "modifiedTime": 1544795700520,
+            "changeTime": 1544795700520,
+            "contentHash": "3e30d624372e00823cfa781b526f80f988359744",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 896,
+            "modifiedTime": 1544795700527,
+            "changeTime": 1544795700527,
+            "contentHash": "c706135ad2b2d5859b538f81e8d6c2a850af0449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Address__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Address__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 446,
+            "modifiedTime": 1544795700520,
+            "changeTime": 1544795700520,
+            "contentHash": "1a226f009dd63c156d3971f8c3763a7070e754cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Assessed_Value__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Assessed_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 463,
+            "modifiedTime": 1544795700521,
+            "changeTime": 1544795700521,
+            "contentHash": "cf5658464be2f9fde5fa17e212379ccc64ab8c62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Baths__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Baths__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 469,
+            "modifiedTime": 1544795700521,
+            "changeTime": 1544795700521,
+            "contentHash": "15da5bc8740561ec4af7c847db5dee799210abf8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Beds__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Beds__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 467,
+            "modifiedTime": 1544795700521,
+            "changeTime": 1544795700521,
+            "contentHash": "42a87a704a89133b81fa0d30c2ee7ce853678818",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Broker__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 590,
+            "modifiedTime": 1544795700522,
+            "changeTime": 1544795700522,
+            "contentHash": "1adfb82fcd63bd84e97886f1f40eab71dd23da7b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 439,
+            "modifiedTime": 1544795700522,
+            "changeTime": 1544795700522,
+            "contentHash": "9252e41ea4860528be191fc3940f202e3aa4da71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Agreement__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Agreement__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 408,
+            "modifiedTime": 1544795700522,
+            "changeTime": 1544795700522,
+            "contentHash": "50fc12cf023ffb086c47e4621b16bf08d4b1b0d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Closed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Closed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 402,
+            "modifiedTime": 1544795700522,
+            "changeTime": 1544795700522,
+            "contentHash": "37cdcf1162540f4cbdc414d9807409d71c4f4ec9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Contracted__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Contracted__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 410,
+            "modifiedTime": 1544795700523,
+            "changeTime": 1544795700523,
+            "contentHash": "960800835ac37c31f81caea228bf48abf1c46285",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Listed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Listed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 448,
+            "modifiedTime": 1544795700523,
+            "changeTime": 1544795700523,
+            "contentHash": "6849ac6ed9ff9d161a4081a614bf68034cb69d87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Pre_Market__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Date_Pre_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 410,
+            "modifiedTime": 1544795700523,
+            "changeTime": 1544795700523,
+            "contentHash": "bd592d5febc471d5b70fa14b321aeceb8ebdada9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Days_On_Market__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Days_On_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 550,
+            "modifiedTime": 1544795700523,
+            "changeTime": 1544795700523,
+            "contentHash": "ce40ee2e334d4751df64c99e0cc6618f50ab87d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 439,
+            "modifiedTime": 1544795700524,
+            "changeTime": 1544795700524,
+            "contentHash": "b91a9f6eaeb6624717c5372cb41cb331d577a83d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 483,
+            "modifiedTime": 1544795700524,
+            "changeTime": 1544795700524,
+            "contentHash": "412bfb6e08fb55d374f40c7dc28a7cf2c3aabb46",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Picture_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 525,
+            "modifiedTime": 1544795700524,
+            "changeTime": 1544795700524,
+            "contentHash": "b5bcd0c404d1ffd4901d0759bf37a300f228fa82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Picture__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1544795700524,
+            "changeTime": 1544795700524,
+            "contentHash": "d067b497c7d1660d752e69f88b49ce2c79af5537",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Price_Sold__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Price_Sold__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 454,
+            "modifiedTime": 1544795700525,
+            "changeTime": 1544795700525,
+            "contentHash": "9770d866457a99a9e788a8e246edc6986f98b2a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Price__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Price__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 449,
+            "modifiedTime": 1544795700525,
+            "changeTime": 1544795700525,
+            "contentHash": "ff0f704be890e3fcedae428867c678c6157e29b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Record_Link__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Record_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 553,
+            "modifiedTime": 1544795700525,
+            "changeTime": 1544795700525,
+            "contentHash": "0436083fdeb5938c36af328cbb53ebc447084313",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 441,
+            "modifiedTime": 1544795700525,
+            "changeTime": 1544795700525,
+            "contentHash": "0946570c4ff99b95a14de2fa788428bead211499",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1380,
+            "modifiedTime": 1544795700526,
+            "changeTime": 1544795700526,
+            "contentHash": "47e4c1697d198d7f0af4f9be9e4adbc239848bdf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Tags__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 440,
+            "modifiedTime": 1544795700526,
+            "changeTime": 1544795700526,
+            "contentHash": "f16ce261391485bd043c9363860f4b9c5a2334ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Thumbnail_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Thumbnail_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 543,
+            "modifiedTime": 1544795700526,
+            "changeTime": 1544795700526,
+            "contentHash": "fd1f295a2a894c14f72f59659154dce0f14dbe7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Thumbnail__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Thumbnail__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1544795700527,
+            "changeTime": 1544795700527,
+            "contentHash": "e5bb343d5d3dc341a33563bfef587324ffb541f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Title__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Title__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 442,
+            "modifiedTime": 1544795700527,
+            "changeTime": 1544795700527,
+            "contentHash": "b5160ea3018d0b196a6260135fee211b6700431c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Zip__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/fields/Zip__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 437,
+            "modifiedTime": 1544795700527,
+            "changeTime": 1544795700527,
+            "contentHash": "cdabe1dd18e0352ec9bc40bf10a762bac1b1f805",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544795700527,
+            "changeTime": 1544795700527,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/objects/Property__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1544795700527,
+            "changeTime": 1544795700527,
+            "contentHash": "2880d5b0d580ff7b7df8b437c163aad73c093f54",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544795700528,
+            "changeTime": 1544795700528,
+            "contentHash": "a3be63df37df47fff38f15d6edaf1499375e1eaa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/permissionsets/dreamhouse.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/permissionsets/dreamhouse.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7156,
+            "modifiedTime": 1544795700528,
+            "changeTime": 1544795700528,
+            "contentHash": "146716d72ebedc4a36401120636ce7009ab362a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1544795700531,
+            "changeTime": 1544795700531,
+            "contentHash": "be5a47b51cc7ce75a2cbbbdbb22372d83e102d64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 243015,
+            "modifiedTime": 1544795700529,
+            "changeTime": 1544795700529,
+            "contentHash": "ba6267afc8db7c06d52f3c7e575d7be4aa51cb0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1544795700530,
+            "changeTime": 1544795700530,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/sample_data_brokers.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/sample_data_brokers.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2650,
+            "modifiedTime": 1544795700530,
+            "changeTime": 1544795700530,
+            "contentHash": "7257eb874b2ed9427db11f12c97b30f42bf47f31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/sample_data_brokers.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/sample_data_brokers.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1544795700530,
+            "changeTime": 1544795700530,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/sample_data_properties.json",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/sample_data_properties.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12821,
+            "modifiedTime": 1544795700531,
+            "changeTime": 1544795700531,
+            "contentHash": "a27217701428cfa91849ee0ad9535165958e35b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/sample_data_properties.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/staticresources/sample_data_properties.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1544795700531,
+            "changeTime": 1544795700531,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544795700532,
+            "changeTime": 1544795700532,
+            "contentHash": "3154f879b0df40537f6cde30fd8d2e9a4f997f75",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Broker__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1544795700531,
+            "changeTime": 1544795700531,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Property_Explorer.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Property_Explorer.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 333,
+            "modifiedTime": 1544795700532,
+            "changeTime": 1544795700532,
+            "contentHash": "a0953d313e4130d6889bc4bfd10e90cc4b866196",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Property_Finder.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Property_Finder.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 323,
+            "modifiedTime": 1544795700532,
+            "changeTime": 1544795700532,
+            "contentHash": "468ef29992722400e864163393d6f3e611a867a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Property__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1544795700532,
+            "changeTime": 1544795700532,
+            "contentHash": "11977e44e3c2b694b10dcce2bba0764909a199f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Settings.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc/force-app/main/default/tabs/Settings.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 312,
+            "modifiedTime": 1544795700532,
+            "changeTime": 1544795700532,
+            "contentHash": "25672285244259b5801a55ce697d927f257742cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arodriquez/Documents/Projects/webComponentTalk/dreamhouse-lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 704,
+            "modifiedTime": 1544795811631,
+            "changeTime": 1544795811631,
+            "contentHash": "13e259c905265986dff7c73db2502d3da6eb7d6d",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
